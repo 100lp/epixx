@@ -1,0 +1,19 @@
+{
+  "name": "frontend",
+  "version": "0.0.0",
+  "authors": [
+    "100lp <spb.gurme@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize.css": "~3.0.2",
+    "jquery": "1.8"
+  }
+}
